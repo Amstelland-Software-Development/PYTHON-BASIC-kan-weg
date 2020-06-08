@@ -1,49 +1,34 @@
-# PYTHON BASIC-TAAK-NR
+# Python Basic
+## Taak 1 Datatypes  
+## Impliciete en expliciete type conversie.  
+Python kent zelf variabele typen toe en doet dat in de regel goed.
+Maak een drietal variabelen aan waarvan je verwacht dat python er "int's" van maakt.  
+Gebruik: a = 1000, b = 7, c = 200  
+Onderzoek vervolgens welke variabeletypen python heeft toegekend.
+Doe dat voor elk van de variabelen,
+en print het antwoord naar de console.  
+Voor de typering zoek je in: https://docs.python.org/2/library/types.html  
+Uitleg over het printstatement vind je hier:
+https://docs.python.org/3/library/functions.html#print  
+Algemene (simplified) syntax: print(object1, object2 [,etc] )
 
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
+All non-keyword arguments are converted to strings like str() does.
+If no objects are given, print() will just write /end. Since printed arguments are converted to text strings, print() cannot be used with binary mode file objects. For these, use file.write(...) instead.
 
-## Titel
+> Print nu de datatypen voor a, b en c achtereenvolgens (elk op een aparte regel)  
+> Vervolgens maak je c gelijk aan: (a gedeeld door b)  
+> Print nu nogmaals het datatype van c  
+### Hieronder komen jouw 5 regels code:
+Print het type van (a), dan een comma, dan a op dezelfde regel)  
+Doe datzelfde met b  
+Doe datzelfde met c  
+Maak dan de deling    
+Print c nu net als eerder.
 
-Geef de taak een pakkende titel.
-> Bijvoorbeeld:  
->
-> ## First Function
-
-## Uitleg
-
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
-> Voorbeeld:  
-> Functies zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
->
->Vooral als de hoeveelheid code toeneemt is het handig om goed na te denken hoe je de code kan scheiden zodat je niet telkens dezelfde code schrijft.
->  
-> In deze les leer je hoe je een aangeleverde functie aanroept zodat de code die in die functie staat wordt uitgevoerd.
-
-## Leerdoelen
-
-Eén of meerdere leerdoelen die het liefst SMART zijn geformuleerd en slaan op de inhoud van deze taak.  
-> Voorbeeld:
->
-> 1. [ ] Ik kan met PHP een functie aanspreken
-
-## Opdracht
-
-Duidelijke tekst die uitlegd wat de student moet precies moet doen. Eventueel onderverdeelt.
-> Voorbeeld:  
->  
-> 1. Schrijf code in `index.php` die de functie genaamd `mijnEerstefunctie` aanroept.
-> 2. Pas de functie `mijnEersteFunctie` zo aan dat aan de tekst die getoond wordt in je browser een uitroepteken wordt toegevoegd.
-
-## Eindresultaat
-
-Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstueel of liever als mogelijk met gebruik van screenshots / filmpjes  
-> Voorbeeld:  
-> Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
-
-## Bronnen
-
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+> Neem nu extra commentaar op in je code waarin je uitlegt:
+> 1. Wat er is gebeurd met a, b en vooral c?  
+Welke datatypes zijn toegekend? Waarom, denk je?  
+> Gebruik hiervoor de juiste technische termen.
+> 2. Als je  - g o e d - kijkt naar de output, wat valt dan verder op?  
+> is de output - p r e c i e s - wat je verwacht?  
+> ### Leg uit: waarom wel of waarom niet?
