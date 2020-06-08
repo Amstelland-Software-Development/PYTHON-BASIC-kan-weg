@@ -1,18 +1,10 @@
-# MODULENAAM-TAAK-NR
+# PYTHON BASIC, TAAK-2
 
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
-
-## Titel
-
-Geef de taak een pakkende titel.
-> Bijvoorbeeld:  
->
-> ## First Function
+## What the .. is een Tuple?
 
 ## Uitleg
 
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
+Python kent ook een aantal geavanceerde Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
 > Voorbeeld:  
 > Functies zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
 >
