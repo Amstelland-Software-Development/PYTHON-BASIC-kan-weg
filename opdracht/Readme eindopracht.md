@@ -48,8 +48,8 @@ een string naar de console die er uit ziet als een klok. Het format moet precies
 `00:00:03` enzovoort, tot:  
 `23:59:59`  
 Hierbij zorg je dat de volgorde van uren, minuten en seconden klopt:  
-bij elke 60e seconde komt er één minuut bij: 00:01:00  
-bij elke 60 minuten kom er één uur bij: 01:00:00  
+bij elke 60e seconde komt er één minuut bij: na 00:00:59 komt 00:01:00  
+bij elke 60 minuten kom er één uur bij: na 00:59:59 komt 01:00:00  
 na 24 uur begint de klok weer opnieuw: na 23:59:59 komt dan 00:00:00
 
 ## Bronnen
